@@ -1,0 +1,11 @@
+{
+    "name": "ts-bug",
+    "type": "module",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+      "@noble/hashes": "1.4.0",
+      "typescript": "5.5.3"
+    }
+  }
+  
